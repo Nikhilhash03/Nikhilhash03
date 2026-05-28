@@ -10,22 +10,21 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=00A8E1&center=true&vCenter=true&width=500&lines=.Net+Full+Stack+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Code" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=00A8E1&center=true&vCenter=true&width=500&lines=.Net+Full+Stack+Developer;Building+Modern+Web+Solutions;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **passionate .Net Full Stack Developer** on my journey to mastering web development! As a fresher, I'm eager to learn, grow, and contribute to impactful projects. I believe in clean code, problem-solving, and continuous learning.
+I'm a **passionate .Net Full Stack Developer** on my journey to mastering web development! As a fresher, I'm eager to learn, grow, and contribute to impactful projects. I believe in clean code, problem-solving, and continuous improvement.
 
-**Beyond Coding:**
-- 🎬 **YouTube Creator** - Sharing tech insights and tutorials
-- 📝 **Medium Blogger** - Technical articles and deep dives
-- 📸 **Instagram Enthusiast** - Daily tech updates and motivation
+**What Drives Me:**
+- 🎯 **Mission-Focused** - Building solutions that make a difference
 - 💡 **Problem Solver** - Love tackling challenging coding problems
-- 🚀 **Growth Mindset** - Always learning new technologies
-- ⚡ **Coffee-Powered Developer** - Fueled by passion and caffeine
+- 🚀 **Growth Mindset** - Always learning new technologies and best practices
+- ⚡ **Coffee-Powered Developer** - Fueled by passion and innovation
+- 🤝 **Team Player** - Collaborative, supportive, and open to feedback
 
 ---
 
@@ -37,6 +36,7 @@ I'm a **passionate .Net Full Stack Developer** on my journey to mastering web de
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
 ### Backend
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
@@ -44,6 +44,7 @@ I'm a **passionate .Net Full Stack Developer** on my journey to mastering web de
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/ef/)
+[![Linq](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
 
 ### Tools & Platforms
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
@@ -51,18 +52,18 @@ I'm a **passionate .Net Full Stack Developer** on my journey to mastering web de
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Social & Connect
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Nikhilhash03)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Nikhilhash03)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nikhilhash03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilhash03)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
